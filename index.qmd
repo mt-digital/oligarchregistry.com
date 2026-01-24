@@ -1,0 +1,25 @@
+---
+title: The Registry
+---
+
+<div style = "text-align: center">
+  <i style="color: darkred">
+    Pity the Pharisees; they're like dogs sleeping in an ox's shed. <br>
+    They neither eat nor let the ox eat.
+  </i>
+  <div style="color: grey">
+  Jesus, in <i>The Gospel of Thomas</i>
+  </div>
+</div>
+<br>
+
+
+Online registry of anti-democratic activities.
+
+
+## Data
+
+- [Consolidated CSV of .txt files](data/), mostly emails, some news and fiction fragments.
+
+
+
