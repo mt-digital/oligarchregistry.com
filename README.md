@@ -10,11 +10,14 @@ Available/In progress:
 Future ideas:
 
 -   Tracking technogarchy investments in server farms, energy companies, compute power.
--   Host Enron email networks [e.g. from this Stanford resource provided by Jure Leskovec](https://snap.stanford.edu/data/email-Enron.html) — another resource: [ ](https://www.r-bloggers.com/2017/07/using-the-igraph-package-to-analyse-the-enron-corpus/)
+-   Host Enron email networks [e.g. from this Stanford resource provided by Jure Leskovec](https://snap.stanford.edu/data/email-Enron.html) — another resource [from R-bloggers](https://www.r-bloggers.com/2017/07/using-the-igraph-package-to-analyse-the-enron-corpus/)
 -   Networks of Proud Boys & ICE with geospatial analyses
 -   Board of Peace
 
-![![](images/clipboard-215332584.png){width="600"}](images/clipboard-2083712807.png){width="750"}
+![](images/clipboard-2083712807.png)
+
+![](images/clipboard-215332584.png)
+
 
 ------------------------------------------------------------------------
 
