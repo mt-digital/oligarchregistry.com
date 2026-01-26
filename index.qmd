@@ -9,7 +9,8 @@ Online data registry to track anti-democratic activities.
 
 ## Data
 
-- Emails pretty-printed, searchable [link](test.html). Built from...
+- [More easily human-readable Epstein documents](epstein-formatted-txt-2025-11-25-release.qmd), selection of emails 
+  (and other stuff) pretty-printed (better than just leafing through .txt files anyway). Built from...
   - ...[a consolidated CSV of .txt files](data/all_emails_raw.csv), 
   mostly emails, some news summaries and fiction fragments published by the
   [House Oversight Committee on November 12,
