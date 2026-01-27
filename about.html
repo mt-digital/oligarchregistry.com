@@ -215,7 +215,7 @@ Pity the Pharisees; they’re like dogs sleeping in an ox’s shed. They neither
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/mt-digital\.github\.io\/oligarchregistry\.com\/");
+        var filterRegex = new RegExp("https:\/\/oligarchregistry\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
